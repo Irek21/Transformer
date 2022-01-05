@@ -1,4 +1,4 @@
-# WMT2014
+# Transformer in PyTorch
 
 My transformer implementation for machine translation similar to "Attention is all you need" also trained on WMT2014.
 
